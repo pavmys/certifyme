@@ -74,4 +74,4 @@ Make.com використовується для автоматизації пр
 
 1. **Клонування репозиторію**:
    ```bash
-   git clone https://github.com/your-repo.git
+   https://github.com/pavmys/certifyme.git
